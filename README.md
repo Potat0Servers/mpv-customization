@@ -5,6 +5,6 @@ Personal mpv customization
 
 按ctrl+o打开视频菜单
 方向键和enter选集
-'['和']'调整倍速
+中括号调整倍速
 逗号句号选帧
 长按右方向键加速
